@@ -4,7 +4,7 @@
   "description": "Base draggable class",
   "main": "unidragger.js",
   "dependencies": {
-    "unipointer": "^2.3.0"
+    "unipointer": "github:refreshmedia/unipointer#develop"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
